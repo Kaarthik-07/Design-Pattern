@@ -1,13 +1,12 @@
 
 //polymorphism -> refers to ability to display a message in different forms
 //poly -> refers to many
-//forms -> refers to forms
+//forms -> refers to many forms
 
 //Two types of polymorphism
 // -Compile/static time polymorphism ->  method overloading
-// -RunTime/dynamic polymorphism
+// -RunTime/dynamic polymorphism -> method overriding
 
-// Polymorphism example demonstrating Method Overloading (Compile-time Polymorphism)
 //method overloading refers to same method name but with different parameter which should be done with in the same class
 //where is in overriding same method name but can be done in extension of other class
 
